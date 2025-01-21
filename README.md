@@ -1,4 +1,4 @@
-# powerbi-performance-dashboard
+# Powerbi Performance Dashboard
 
 Designing a Professional Power BI Performance Dashboard
 
