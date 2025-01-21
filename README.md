@@ -10,4 +10,4 @@ Description: This project aimed to create a corporate-grade Power BI dashboard f
 
 # Aftermath of Designing
 
-![Image](https://github.com/user-attachments/assets/4a65e33a-cfda-4d6a-907c-322c376e411f)
+
