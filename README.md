@@ -6,13 +6,8 @@ Description: This project aimed to create a corporate-grade Power BI dashboard f
 
 # Level 1 Design Makeover
 
-![Image](https://github.com/user-attachments/assets/2b663f8b-8303-4733-9f99-c89d64190170)
-
-
-# Level 2 Design Makeover
-
 ![Image](https://github.com/user-attachments/assets/2043e9e1-e118-4f95-b65f-8cff695be5ae)
 
-# Level 3 Design Makeover  
+# Final Design Makeover  
 
 ![Image](https://github.com/user-attachments/assets/c23a70ad-e6f7-40a6-be0b-859e2c41190b)
