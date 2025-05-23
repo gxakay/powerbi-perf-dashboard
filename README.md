@@ -2,7 +2,7 @@
 
 Designing a Professional Power BI Performance Dashboard
 
-Description: This project aimed to create a corporate-grade Power BI dashboard for tracking key performance metrics, with a heavy emphasis on visual aesthetics and user experience. The design strategy involved a minimalist approach, utilizing a limited color palette to maintain professionalism while highlighting the important aspects of the data. I focused on visual hierarchy, ensuring that the most critical metrics are presented prominently, while related data is grouped logically. Consistent use of typography, clean lines, and strategically placed white space contribute to a sleek and modern feel. The dashboard leverages a combination of charts, graphs, and tables to present the information effectively, providing the right blend of function and form. This project demonstrates how effective design principles can transform a data-heavy dashboard into a highly engaging and insightful tool
+Description: This project aimed to create a corporate-grade Power BI dashboard for tracking key performance metrics, with a heavy emphasis on visual aesthetics and user experience. The design strategy involved a minimalist approach, utilizing a limited color palette to maintain professionalism while highlighting the important aspects of the data. Consistent use of typography, clean lines, and strategically placed white space contribute to a sleek and modern feel.
 
 # Level 1 Design Makeover
 
